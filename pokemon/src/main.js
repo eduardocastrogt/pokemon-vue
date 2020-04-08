@@ -4,8 +4,8 @@ import App from './App.vue'
 
 Vue.config.productionTip = false
 
+//Bootstrap
 Vue.use(BootstrapVue, IconsPlugin)
-
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 
